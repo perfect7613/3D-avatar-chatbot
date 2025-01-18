@@ -64,3 +64,8 @@ npm run dev
    - Facial expressions
    - Lip-sync animation
    - Body gestures
+
+## 🎬 Video Demo
+https://github.com/user-attachments/assets/c9e42535-7958-4f01-ad78-5253fe95ff46
+
+
