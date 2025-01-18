@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "soundFile": "D:\\Softwares\\New folder\\Audio2.wav",
+    "duration": 3.60
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.07, "value": "X" },
+    { "start": 0.07, "end": 0.21, "value": "F" },
+    { "start": 0.21, "end": 0.42, "value": "B" },
+    { "start": 0.42, "end": 0.50, "value": "A" },
+    { "start": 0.50, "end": 0.58, "value": "C" },
+    { "start": 0.58, "end": 0.65, "value": "A" },
+    { "start": 0.65, "end": 0.83, "value": "B" },
+    { "start": 0.83, "end": 1.07, "value": "E" },
+    { "start": 1.07, "end": 1.15, "value": "A" },
+    { "start": 1.15, "end": 1.35, "value": "E" },
+    { "start": 1.35, "end": 1.42, "value": "F" },
+    { "start": 1.42, "end": 1.56, "value": "G" },
+    { "start": 1.56, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.91, "value": "C" },
+    { "start": 1.91, "end": 2.12, "value": "B" },
+    { "start": 2.12, "end": 2.19, "value": "C" },
+    { "start": 2.19, "end": 2.26, "value": "E" },
+    { "start": 2.26, "end": 2.33, "value": "C" },
+    { "start": 2.33, "end": 2.54, "value": "B" },
+    { "start": 2.54, "end": 2.75, "value": "C" },
+    { "start": 2.75, "end": 3.31, "value": "B" },
+    { "start": 3.31, "end": 3.60, "value": "X" }
+  ]
+}
